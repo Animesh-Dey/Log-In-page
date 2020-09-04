@@ -1,0 +1,45 @@
+body{
+    background-image: url("45600.jpg");
+    background-attachment: fixed;
+background-size: cover;
+
+}
+div{
+    width: 500px;
+    height:auto;
+   color:   #6c6d68   ;
+   text-align: center;
+   margin-top: 200px;
+   margin-left: 610px;
+   font-weight: bold;
+   display: block;
+   overflow:visible;
+   font-size:20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    cursor: pointer;
+}
+input{
+    text-align: center;
+   font-size: 18px;
+    border-radius: 10px;
+    background: transparent;
+    color: whitesmoke;
+    
+}
+input:focus{
+    background-color:  #212f3d ;
+    cursor: pointer;
+}
+#ex5{
+    margin-left: 95%;
+    border: transparent;
+    border-radius: 0px;
+}
+.ex9{
+    color: #a8a982 ;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 2px 15px 15px  #6f6f66 ;
+}
